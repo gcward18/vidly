@@ -1,0 +1,27 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "video webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "George C. Ward",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "config": "^3.0.1",
+    "debug": "^4.1.0",
+    "express": "^4.16.3",
+    "helmet": "^3.15.0",
+    "joi": "^13.7.0",
+    "joi-objectid": "^2.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "lowdash": "^1.2.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.2",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9"
+  }
+}
